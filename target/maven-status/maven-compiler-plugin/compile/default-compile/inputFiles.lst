@@ -1,0 +1,15 @@
+/home/zorro/eclipse-workspace/AnnotationProcessor/src/de/Zorro909/AnnotationProcessor/interfaces/ParameterProvider.java
+/home/zorro/eclipse-workspace/AnnotationProcessor/src/de/Zorro909/AnnotationProcessor/AutoInstance.java
+/home/zorro/eclipse-workspace/AnnotationProcessor/src/de/Zorro909/AnnotationProcessor/interfaces/FieldSetter.java
+/home/zorro/eclipse-workspace/AnnotationProcessor/src/de/Zorro909/AnnotationProcessor/interfaces/InstancedFieldGetter.java
+/home/zorro/eclipse-workspace/AnnotationProcessor/src/de/Zorro909/AnnotationProcessor/interfaces/SimpleFieldSetter.java
+/home/zorro/eclipse-workspace/AnnotationProcessor/src/de/Zorro909/AnnotationProcessor/AnnotationProcessor.java
+/home/zorro/eclipse-workspace/AnnotationProcessor/src/de/Zorro909/AnnotationProcessor/interfaces/InstancedFieldSetter.java
+/home/zorro/eclipse-workspace/AnnotationProcessor/src/de/Zorro909/AnnotationProcessor/interfaces/ClassAnnotationVerifier.java
+/home/zorro/eclipse-workspace/AnnotationProcessor/src/de/Zorro909/AnnotationProcessor/interfaces/SimpleFieldGetter.java
+/home/zorro/eclipse-workspace/AnnotationProcessor/src/de/Zorro909/AnnotationProcessor/MethodInfo.java
+/home/zorro/eclipse-workspace/AnnotationProcessor/src/de/Zorro909/AnnotationProcessor/interfaces/StaticFieldGetter.java
+/home/zorro/eclipse-workspace/AnnotationProcessor/src/de/Zorro909/AnnotationProcessor/interfaces/MethodRegistrar.java
+/home/zorro/eclipse-workspace/AnnotationProcessor/src/de/Zorro909/AnnotationProcessor/Test.java
+/home/zorro/eclipse-workspace/AnnotationProcessor/src/de/Zorro909/AnnotationProcessor/interfaces/FieldAnnotationValidator.java
+/home/zorro/eclipse-workspace/AnnotationProcessor/src/de/Zorro909/AnnotationProcessor/AnnotationAPI.java
