@@ -10,7 +10,9 @@ public class AnnotationAPI {
 
 	private static HashMap<Class<? extends Annotation>, AnnotationProcessor> processors = new HashMap<>();
 	private static HashMap<Class<? extends Annotation>, ParameterProvider> parameterProviders = new HashMap<>();
-
+	
+	public static final String test = "Hallo";
+	
 	public static void registerInstance(Object obj) {
 		for (AnnotationProcessor proc : processors.values()) {
 			try {
