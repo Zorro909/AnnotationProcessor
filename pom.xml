@@ -25,4 +25,8 @@
 			<version>LATEST</version>
 		</dependency>
 	</dependencies>
+	<properties>
+  <sonar.organization>zorro909</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 </project>
